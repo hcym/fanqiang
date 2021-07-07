@@ -1,4 +1,4 @@
-# 翻墙-科学上网、翻墙工具、翻墙教程项目库。
+# 翻墙科学、翻墙工具、翻墙教程项目库。
 <ul >
     <li class="Box-row"><strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP">安卓翻墙新闻APP(FQNews APP)</a></strong></li>
     <li class="Box-row">
